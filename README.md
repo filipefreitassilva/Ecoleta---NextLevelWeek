@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/readme/GitHub.png">
+<img src="./public/assets/readme/GitHub.png">
 </div>
 
 # Ecoleta
@@ -7,17 +7,41 @@
 
  Marketplace para cadastro e pesquisa de pontos de coleta de resíduos.
 
-![](./assets/readme/home.png)
+![](./public/assets/readme/home.png)
 
 ## Tecnologias
 
-![](./assets/readme/html.png) HTML <br>
-![](./assets/readme/css.png) CSS <br>
-![](./assets/readme/js.png) JavaScript <br>
+![](./public/assets/readme/html.png) HTML <br>
+![](./public/assets/readme/css.png) CSS <br>
+![](./public/assets/readme/js.png) JavaScript <br>
+![](./public/assets/readme/nodejs.png) NodeJs <br>
+![](./public/assets/readme/sql.png) SQLite <br>
+
+## Instalação
+
+Configurar Projeto Nodejs
+```sh
+npm init -y
+```
+
+Instalar Express (Servidor)
+```sh
+npm install express
+```
+
+Instalar NodeMon
+```sh
+npm install nodemon
+```
+
+Instalar Nunjucks
+```sh
+npm install nunjucks
+```
 
 ## Meta
 
 Filipe Freitas <br>
-![](./assets/readme/instagram.png) [@filipe.freitas](https://instagram.com/filipe.freitas) <br>
-![](./assets/readme/twitter.png) [@F7_freitas](https://twitter.com/f7_freitas) <br>
-![](./assets/readme/email.png) filipe.ifto@gmail.com
+![](./public/assets/readme/instagram.png) [@filipe.freitas](https://instagram.com/filipe.freitas) <br>
+![](./public/assets/readme/twitter.png) [@F7_freitas](https://twitter.com/f7_freitas) <br>
+![](./public/assets/readme/email.png) filipe.ifto@gmail.com
